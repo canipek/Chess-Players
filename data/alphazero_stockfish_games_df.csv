@@ -1,0 +1,111 @@
+,game_id,game_order,event,site,date_played,round,white,black,result,winner,loser,date_created,file_name
+0,746c4532-ed97-42ed-8a56-4b527e9855e2,1,Computer Match,"London, UK",2018.01.18,11542767294934054345,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+1,0379a8c9-0dbe-474c-afe4-3adfd0b921b2,2,Computer Match,"London, UK",2018.01.18,11882219725075081943,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+2,1c25b908-c288-4c39-bdff-b041ed3f0ad6,3,Computer Match,"London, UK",2018.01.18,6854337384941683259,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+3,f2143f6b-a6c2-40f8-9ab5-c2a649518895,4,Computer Match,"London, UK",2018.01.18,5392718751057140516,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+4,aaa1aaab-4fbd-4742-887f-8ebb4b6c1264,5,Computer Match,"London, UK",2018.01.18,17494942703158718757,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+5,40bbf9a4-16fa-4210-bf80-5190cd1c538f,6,Computer Match,"London, UK",2018.01.18,5236993464467552754,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+6,ef388b50-377a-474a-bbab-cad377192979,7,Computer Match,"London, UK",2018.01.18,3353787938484647500,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+7,dac694fd-75cc-47e9-b0f7-bf9dff9867f7,8,Computer Match,"London, UK",2018.01.18,5361299757472136882,Stockfish 8,AlphaZero,0-1,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+8,3b9c76fd-7c70-4297-bd4d-1e2ae8770b75,9,Computer Match,"London, UK",2018.01.18,17896041660018278286,Stockfish 8,AlphaZero,0-1,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+9,dd555dc6-1449-4317-ae79-3515ae37eaf8,10,Computer Match,"London, UK",2018.01.18,14385736216385115953,Stockfish 8,AlphaZero,1-0,Stockfish 8,AlphaZero,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+10,8bbe2ac6-ac37-4687-b67e-e37d9ec657dc,11,Computer Match,"London, UK",2018.01.18,1311451608356943530,Stockfish 8,AlphaZero,0-1,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+11,4039e521-b9ee-446e-9253-63caa1c11b42,12,Computer Match,"London, UK",2018.01.18,17293012532641473451,Stockfish 8,AlphaZero,0-1,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+12,932c9ff0-625e-4fe4-8d9f-5df27874bdc6,13,Computer Match,"London, UK",2018.01.18,982143359799313906,Stockfish 8,AlphaZero,0-1,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+13,39f7a185-e382-4338-84a6-c6dee3d32f0f,14,Computer Match,"London, UK",2018.01.18,10171852109272918171,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+14,55ec3bfc-2120-4dde-8c56-7de2a2713c89,15,Computer Match,"London, UK",2018.01.18,13228955388346083299,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+15,3a7b3e3c-f22e-45de-bb12-d5fab935e9ab,16,Computer Match,"London, UK",2018.01.18,13242102066133112446,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+16,5d56ff00-0cb0-4ed3-9df5-7501a2ad4475,17,Computer Match,"London, UK",2018.01.18,13376850553810558906,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:26+0000,alphazero_vs_stockfish_all.pgn
+17,176a49b3-4b38-4f0b-9d77-853b2dc57342,18,Computer Match,"London, UK",2018.01.18,1353243518697010232,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+18,290b9063-63ea-4ffe-b4dd-09c27e7f698c,19,Computer Match,"London, UK",2018.01.18,16001156000889552113,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+19,393d7782-8639-46d5-9c48-84d285a46f38,20,Computer Match,"London, UK",2018.01.18,16601626363786679617,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+20,50ef9f77-40d9-4231-9fe8-2856cd2ca9d2,21,Computer Match,"London, UK",2018.01.18,17783665650825009718,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+21,552e3aa2-407b-4516-a61a-a972e6e91b3d,22,Computer Match,"London, UK",2018.01.18,18032836818162942537,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+22,96d6e3c5-54f7-4ac6-b81e-ac1f76e437d1,23,Computer Match,"London, UK",2018.01.18,3283815011293825606,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+23,7ce2406f-4a38-4713-b38c-916e75bac514,24,Computer Match,"London, UK",2018.01.18,3677026750049642053,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+24,33b9b569-06e3-4328-82f4-bb5e174e03da,25,Computer Match,"London, UK",2018.01.18,4500334006973447547,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+25,1e152b31-cba5-4ecc-b6d4-04a6ea089e9f,26,Computer Match,"London, UK",2018.01.18,4632333797861372679,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+26,305d3e9b-ccb9-4fee-8e3c-92f3359d1474,27,Computer Match,"London, UK",2018.01.18,5224369490612317085,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+27,42d65f7f-bfed-48e8-ac61-579393b71627,28,Computer Match,"London, UK",2018.01.18,5401044856701022972,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+28,020006dc-0d7e-4dc6-9d7d-3fb571925a85,29,Computer Match,"London, UK",2018.01.18,7078804245524558596,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+29,855c0f45-3186-4553-8036-ab77591db2fb,30,Computer Match,"London, UK",2018.01.18,7648741535486894284,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+30,d4a1ed3f-65dc-4e72-878f-9e489d01e018,31,Computer Match,"London, UK",2018.01.18,8232843309359930477,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+31,fa6ec0a5-9630-4962-834d-166e94ecba43,32,Computer Match,"London, UK",2018.01.18,8433267630295204772,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+32,22da5a45-2a45-4306-9aed-2e1be8701d21,33,Computer Match,"London, UK",2018.01.18,8479982291233475974,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+33,1a79a3f5-6784-474b-8c78-8483740da6b0,34,Computer Match,"London, UK",2018.01.18,8606404167689185752,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+34,5191415b-9ec7-4376-9bbc-09ad5c7fbf97,35,Computer Match,"London, UK",2018.01.18,8904481864211367585,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+35,ba7e5929-6fd9-44a4-b049-44858c06f5ec,36,Computer Match,"London, UK",2018.01.18,9312122087569082815,AlphaZero,Stockfish 8,1-0,AlphaZero,Stockfish 8,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+36,ed50cd6a-8cad-4ecf-95e4-4f8f109016dc,37,Computer Match,"London, UK",2018.01.18,8898760361662259939,Stockfish 8,AlphaZero,1-0,Stockfish 8,AlphaZero,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+37,ef6ffa99-a5c6-44bf-a6ef-c14963f70abf,38,Computer Match,"London, UK",2018.01.18,7707419356831957955,AlphaZero,Stockfish 8,0-1,Stockfish 8,AlphaZero,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+38,27e728ad-094c-471a-b882-deb47db5b55c,39,Computer Match,"London, UK",2018.01.18,10201274440418519156,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+39,5dea3463-b27d-4622-aace-49691dc08db9,40,Computer Match,"London, UK",2018.01.18,10343539946800250152,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+40,90bd89b6-1611-43d8-8907-e7e1a2aebbee,41,Computer Match,"London, UK",2018.01.18,1202562042842807965,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+41,8b3bfdfd-478d-4ca7-a1fb-66cef54ade67,42,Computer Match,"London, UK",2018.01.18,12161789778614191351,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+42,1471bab8-55ec-431e-a3cb-7d11ba2a13ed,43,Computer Match,"London, UK",2018.01.18,1263475964711098102,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+43,5de9f77c-ba70-4055-99b7-d836db7888bb,44,Computer Match,"London, UK",2018.01.18,14806980465511510240,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+44,1c59d2c6-004a-4789-b821-142e41a07aa8,45,Computer Match,"London, UK",2018.01.18,1631448003196649637,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+45,196cc336-092a-44a7-9e04-6a2de5d8ed42,46,Computer Match,"London, UK",2018.01.18,16852072123307913817,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+46,3f0a366d-e9e2-45a0-8af6-1397243ca27a,47,Computer Match,"London, UK",2018.01.18,18099125058897017226,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+47,4fa18f87-38da-4e02-a07d-5bddcd18fa7e,48,Computer Match,"London, UK",2018.01.18,2340408964160550726,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+48,fda3b69c-de88-495b-9c7b-aabab5ac115a,49,Computer Match,"London, UK",2018.01.18,2552846187163834556,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+49,8219d4c3-83df-467c-bece-518452161edd,50,Computer Match,"London, UK",2018.01.18,2685827859244202123,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+50,6641d57f-4b67-408a-8c8f-d9a925a456bc,51,Computer Match,"London, UK",2018.01.18,3244436575693585184,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+51,f6ac1a42-515e-476a-b754-8ed6bb8935b1,52,Computer Match,"London, UK",2018.01.18,4547416317897899452,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+52,cf800ccf-d5a4-4c3b-91ee-f88256496482,53,Computer Match,"London, UK",2018.01.18,4548808882643116857,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+53,1774cdf1-9c1c-4c52-9e0f-f5bb5920398e,54,Computer Match,"London, UK",2018.01.18,5028998248206787240,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+54,89cdfe20-5132-4680-80e7-811a63b45344,55,Computer Match,"London, UK",2018.01.18,657068852648119805,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+55,c6d363d3-4096-4397-bc57-d30c249fe239,56,Computer Match,"London, UK",2018.01.18,6620201684262374905,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+56,1589be1a-c8ff-47ce-a8b0-30b61d435a28,57,Computer Match,"London, UK",2018.01.18,7589709693305768020,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:27+0000,alphazero_vs_stockfish_all.pgn
+57,991b2c0b-8f13-4b5c-9d10-13225b7225b7,58,Computer Match,"London, UK",2018.01.18,8220312723100696575,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+58,652520d4-cc9d-4bdb-9f51-b2d45a60582c,59,Computer Match,"London, UK",2018.01.18,8277641878023999529,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+59,f1f56345-80e8-45f7-b0ab-70f073c79135,60,Computer Match,"London, UK",2018.01.18,9181361257987697953,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+60,4805a881-2061-4d9a-9954-047519b49600,61,Computer Match,"London, UK",2018.01.18,9598892097000173055,Stockfish 8,AlphaZero,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+61,1af7be32-db39-425c-94af-c2f087c575c8,62,Computer Match,"London, UK",2018.01.18,10051575212569511523,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+62,55194973-99e0-4506-bef0-afb603d4d9ef,63,Computer Match,"London, UK",2018.01.18,10134294915377894796,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+63,f804be06-f7ee-414d-ae55-6a82bb79e6e0,64,Computer Match,"London, UK",2018.01.18,10336569811732462175,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+64,0fc6992c-296a-4849-8fb8-60a1299340be,65,Computer Match,"London, UK",2018.01.18,10418492678849625716,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+65,41f5166d-ef18-47ea-8022-a1777d40397f,66,Computer Match,"London, UK",2018.01.18,10975644418896974669,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+66,f5049966-c564-4c16-a5e5-3c61dd396fc1,67,Computer Match,"London, UK",2018.01.18,11021298661105290685,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+67,24225da8-b810-49a8-93a3-e6a53b2f15dd,68,Computer Match,"London, UK",2018.01.18,11409936432146737555,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+68,3e40af2a-6907-4285-862c-451254128aae,69,Computer Match,"London, UK",2018.01.18,11576941829327076310,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+69,993bd883-1db9-471a-94bf-43a684050eb5,70,Computer Match,"London, UK",2018.01.18,11746689163091054882,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+70,92665d02-d3b1-4cee-8e0b-655528020cc4,71,Computer Match,"London, UK",2018.01.18,12215227834027120523,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+71,e88dceb7-5914-4bd6-8db9-97c93b36dcc0,72,Computer Match,"London, UK",2018.01.18,12376911717947014533,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+72,0a0e1fa3-1e27-47ee-bc61-dc885fa4a4db,73,Computer Match,"London, UK",2018.01.18,13477851119818020993,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+73,dbacde89-d45e-4d9c-a5a6-b0e5c7e4dacf,74,Computer Match,"London, UK",2018.01.18,13882914127763900725,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+74,02e3d792-a371-47fb-9153-ee8b4f3099fb,75,Computer Match,"London, UK",2018.01.18,14150481663601636520,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+75,bd504a97-3e8c-49cd-8f41-767333679c06,76,Computer Match,"London, UK",2018.01.18,14405510855992749461,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+76,2e1dd358-ce20-42f5-bffc-0725dfa90c6b,77,Computer Match,"London, UK",2018.01.18,14589816639254443981,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+77,5765d3e8-f799-47c4-95af-10d00bb4a29a,78,Computer Match,"London, UK",2018.01.18,14759548857109546600,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+78,e83e69d7-63d0-4d80-bdb4-92487ecc6ae1,79,Computer Match,"London, UK",2018.01.18,1510119543466248533,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+79,6b937e7b-932a-4ac2-98de-8c7a78ced56d,80,Computer Match,"London, UK",2018.01.18,15195455775176430194,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+80,5ec7e90b-bd63-499c-986e-0fef307c65a5,81,Computer Match,"London, UK",2018.01.18,15299213940181686048,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:28+0000,alphazero_vs_stockfish_all.pgn
+81,959045b7-bde3-49ca-9569-604ca0ac9dae,82,Computer Match,"London, UK",2018.01.18,15379219795039538574,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+82,f09a8bce-5ade-44f2-b223-f7c7d168d3bd,83,Computer Match,"London, UK",2018.01.18,156228366932102227,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+83,98db531d-2cea-4ec2-ae7c-850e98506fe3,84,Computer Match,"London, UK",2018.01.18,15757864129744024444,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+84,2912a653-a05d-4a2b-826f-e27c2a1b0fa2,85,Computer Match,"London, UK",2018.01.18,16513206743872013240,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+85,f739e1f2-2f21-45db-aac1-88630733f4ae,86,Computer Match,"London, UK",2018.01.18,16674612722588330663,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+86,9929aa64-4a68-4089-9d86-e9fb705522ae,87,Computer Match,"London, UK",2018.01.18,16923207931856362105,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+87,ee5a4a81-6eaa-4b93-bba3-08e792572802,88,Computer Match,"London, UK",2018.01.18,17454695395454774250,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+88,112c5f2b-6f1f-4d69-8e83-53afd661ae4a,89,Computer Match,"London, UK",2018.01.18,17760757200045262106,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+89,7c8d99ba-4516-4c60-8dd8-90aaddcc88bd,90,Computer Match,"London, UK",2018.01.18,1781245371808176215,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+90,13937823-ab39-4a5a-be47-a302719c5376,91,Computer Match,"London, UK",2018.01.18,17950604089883009910,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+91,5691a0c8-c8d5-40b2-8960-b9f3379f2b74,92,Computer Match,"London, UK",2018.01.18,18085936221980441161,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+92,90d98925-7743-41e2-927d-ffaffd673dbf,93,Computer Match,"London, UK",2018.01.18,18142250296643798060,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+93,452c0e6c-b65b-4a64-b85e-689370ffe726,94,Computer Match,"London, UK",2018.01.18,18324114048812201021,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+94,b4a8ca59-6837-4870-9be2-aefe072fab1c,95,Computer Match,"London, UK",2018.01.18,1869259036589376380,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+95,5c7a4c2d-0916-491e-b0ef-96a1d41da4e5,96,Computer Match,"London, UK",2018.01.18,3792448887452614000,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+96,aaef9a34-5cf3-41fc-88b4-ccae123a31a9,97,Computer Match,"London, UK",2018.01.18,4229355007191865808,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+97,2264cacd-ef82-4ed1-8685-4e060a15abaf,98,Computer Match,"London, UK",2018.01.18,4548207250304038355,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+98,263bfe43-8f7f-4125-9f3a-7976c34b6352,99,Computer Match,"London, UK",2018.01.18,4675640728464940612,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+99,89ab5084-a916-4692-8f28-bda6964bbb11,100,Computer Match,"London, UK",2018.01.18,5975790206778120659,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+100,9a04f809-ca4b-44f5-95fa-461b929266ab,101,Computer Match,"London, UK",2018.01.18,6640061131152476226,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+101,135a8f41-a62c-4684-bea2-5e25e6837601,102,Computer Match,"London, UK",2018.01.18,6694459919267050122,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+102,7aaa97f9-fe59-4711-a9f8-1e4f5a11fb21,103,Computer Match,"London, UK",2018.01.18,669650148418876874,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+103,6b2e2809-0c8b-47ab-9d7b-50bea8771c64,104,Computer Match,"London, UK",2018.01.18,6789699321684269484,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+104,6a43f2fa-618f-4248-96c3-172d73da2baf,105,Computer Match,"London, UK",2018.01.18,691859931675082058,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+105,df6dc4c6-63e2-4257-a70a-2abbd4799a47,106,Computer Match,"London, UK",2018.01.18,7140698033500703341,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+106,def60205-0c33-4bb0-b234-3e1c4c9a534b,107,Computer Match,"London, UK",2018.01.18,7647098068760231528,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+107,ce8fe5e0-9b41-4902-9306-a95457a9dd3e,108,Computer Match,"London, UK",2018.01.18,8542537617948137496,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+108,1f4b12c7-5bcb-430f-90e6-bdefb5370654,109,Computer Match,"London, UK",2018.01.18,9590777183283011846,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
+109,1b304a87-70d7-4c4b-897b-f7c84c0dda7c,110,Computer Match,"London, UK",2018.01.18,9631440984287896022,AlphaZero,Stockfish 8,1/2-1/2,draw,draw,2023-01-01T09:09:29+0000,alphazero_vs_stockfish_all.pgn
